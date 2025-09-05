@@ -1,0 +1,7 @@
+Alt R - bracetleft
+backspace - Alt_L
+caps lock - Escape
+control R - equal
+Delete - BackSpace
+Escape - grave
+super R - bracketright
